@@ -1,9 +1,9 @@
 # Privacy Policy
 
-**HN - Hacker News Reader**
+**Hacker News - HN Reader**
 **Last updated: April 6, 2026**
 
-This Privacy Policy describes how HN - Hacker News Reader ("the App", "we", "us") handles your information. We take your privacy seriously and collect only what is necessary for the App to function.
+This Privacy Policy describes how Hacker News - HN Reader ("the App", "we", "us") handles your information. We take your privacy seriously and collect only what is necessary for the App to function.
 
 ---
 
@@ -116,4 +116,4 @@ If you have questions or requests regarding this Privacy Policy, please contact 
 
 ---
 
-_HN - Hacker News Reader is an unofficial third-party client and is not affiliated with Y Combinator or Hacker News._
+_Hacker News - HN Reader is an unofficial third-party client and is not affiliated with Y Combinator or Hacker News._
