@@ -1,1 +1,3 @@
-# hn-reader-legal
+# HN - Hacker News Reader · Privacy Policy
+
+- [Privacy Policy](PRIVACY.md)
