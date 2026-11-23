@@ -1,9 +1,9 @@
 # Privacy Policy
 
-**Hacker News - HN Reader**
-**Last updated: April 6, 2026**
+**Reader for Hacker News**
+**Last updated: November 23, 2026**
 
-This Privacy Policy describes how Hacker News - HN Reader ("the App", "we", "us") handles your information. We take your privacy seriously and collect only what is necessary for the App to function.
+This Privacy Policy describes how Reader for Hacker News ("the App", "we", "us") handles your information. We take your privacy seriously and collect only what is necessary for the App to function.
 
 ---
 
@@ -16,7 +16,7 @@ The following data is stored exclusively on your device and is never transmitted
 - **Bookmarks** — stories you save for later
 - **Read history** — story IDs you have already viewed
 - **Upvotes** — story IDs you have upvoted
-- **Theme preference** — your chosen appearance setting (light, dark, or sepia)
+- **Theme preference** — your chosen appearance setting (light, dark, gray, or system)
 
 This data lives in your device's local storage. We have no access to it, and it is removed when you uninstall the App.
 
@@ -82,11 +82,11 @@ The App does not knowingly collect personal information from children under 13. 
 
 The App integrates with the following third-party services, each governed by their own privacy policies:
 
-| Service                   | Purpose                           | Privacy Policy                                                                         |
-| ------------------------- | --------------------------------- | -------------------------------------------------------------------------------------- |
-| Hacker News (YCombinator) | Content and authentication        | [https://www.ycombinator.com/legal#privacy](https://www.ycombinator.com/legal#privacy) |
-| Sentry                    | Crash reporting and user feedback | [https://sentry.io/privacy/](https://sentry.io/privacy/)                               |
-| Algolia                   | Search                            | [https://www.algolia.com/policies/privacy/](https://www.algolia.com/policies/privacy/) |
+| Service     | Purpose                           | Privacy Policy                                                                         |
+| ----------- | --------------------------------- | -------------------------------------------------------------------------------------- |
+| Hacker News | Content and authentication        | [https://www.ycombinator.com/legal#privacy](https://www.ycombinator.com/legal#privacy) |
+| Sentry      | Crash reporting and user feedback | [https://sentry.io/privacy/](https://sentry.io/privacy/)                               |
+| Algolia     | Search                            | [https://www.algolia.com/policies/privacy/](https://www.algolia.com/policies/privacy/) |
 
 ---
 
@@ -116,4 +116,4 @@ If you have questions or requests regarding this Privacy Policy, please contact 
 
 ---
 
-_Hacker News - HN Reader is an unofficial third-party client and is not affiliated with Y Combinator or Hacker News._
+_Reader is an independent app for Hacker News and is not affiliated with or endorsed by Hacker News._
