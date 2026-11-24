@@ -1,7 +1,7 @@
 # Privacy Policy
 
 **Reader for Hacker News**
-**Last updated: November 23, 2026**
+**Last updated: November 24, 2026**
 
 This Privacy Policy describes how Reader for Hacker News ("the App", "we", "us") handles your information. We take your privacy seriously and collect only what is necessary for the App to function.
 
@@ -16,7 +16,7 @@ The following data is stored exclusively on your device and is never transmitted
 - **Bookmarks** — stories you save for later
 - **Read history** — story IDs you have already viewed
 - **Upvotes** — story IDs you have upvoted
-- **Theme preference** — your chosen appearance setting (light, dark, gray, or system)
+- **Theme preference** — your chosen appearance setting (light, dark, sepia, or system)
 
 This data lives in your device's local storage. We have no access to it, and it is removed when you uninstall the App.
 
